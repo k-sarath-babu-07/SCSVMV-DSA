@@ -1,7 +1,3 @@
-/* Experiment 3: Infix to Postfix Conversion using Stack
-   Case Study: Vidya College SIS - Converting the CGPA-computation formula
-   entered by faculty into postfix form for the result-processing engine */
-
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
